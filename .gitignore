@@ -1,0 +1,12 @@
+__pycache__/
+#*.pyod
+ Polymarket Opportunity Scanner
+Bot Python pour identifier des opportunites a faible risque sur Polymarket.
+#
+#
+ Install
+pip install -r requirements.txt
+#
+#
+ Usage
+python polymarket_scanner.py
